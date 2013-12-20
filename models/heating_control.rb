@@ -1,0 +1,2 @@
+class HeatingControl
+end
