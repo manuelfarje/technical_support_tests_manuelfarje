@@ -18,9 +18,12 @@ Once you're done you can publish the changes with the following command:
 
 
 Some useful links:
-http://rspec.info/
-https://www.ruby-lang.org/de/
-http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oqAGUxUyluGiRt
+
+Rspec: http://rspec.info/
+
+Ruby: https://www.ruby-lang.org/de/
+
+Git: http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oqAGUxUyluGiRt
 
 
 And now let's play ;-)
