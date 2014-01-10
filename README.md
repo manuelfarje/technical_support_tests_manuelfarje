@@ -1,8 +1,11 @@
 technical_support_tests
 =======================
 This repository is used to test the coding skills of our potential technical support engineers :-)
+
 The directory structure is as follows:
+
 -models // contains the implementations that need to be created by you
+
 -spec   // contains the tests that need to be run
 
 Checkout the code and create a new branch with your name:
@@ -29,4 +32,4 @@ Ruby: https://www.ruby-lang.org/de/
 Git: http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oqAGUxUyluGiRt
 
 
-And now let's play ;-)
+And now have fun with ruby ;-)
