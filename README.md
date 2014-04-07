@@ -14,6 +14,7 @@ From then on you can work on your fork and commit to it.
 
 Here's your exercise.
 Please create an implementation for the following tests so that all tests are green (passing).
+You can also have a look at the test files :)
 
 First, install bundler and all required gems:
 # bundle install
