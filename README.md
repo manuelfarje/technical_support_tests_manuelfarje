@@ -8,19 +8,18 @@ The directory structure is as follows:
 
 -spec   // contains the tests that need to be run
 
-Checkout the code and create a new branch with your name:
-# git co -b candidate/YOUR_NAME
-
-From then on you can work on your branch and commit to it.
+Create a fork
+You can create a fork with technical_support_tests_YOUR_NAME
+From then on you can work on your fork and commit to it.
 
 Here's your exercise.
-Please create an implementation for the following tests so that all tests are green.
+Please create an implementation for the following tests so that all tests are green (passing).
 
-You can start the tests by running the followig command:
+First, install bundler and all required gems:
+# bundle install
+
+You can start the tests by running the following command:
 # bundle exec rspec spec
-
-Once you're done you can publish the changes with the following command:
-# git push origin candidate/YOUR_NAME
 
 
 Some useful links:
